@@ -1,8 +1,8 @@
 {
-  "name": "HASI-MD",
-  "description": "Javascript WhatsApp bot made by χ нαѕι",
-  "logo": "https://files.catbox.moe/8lxlpq.jpg",
-  "keywords": ["HASI-MD"],
+  "name": "E3_HACKER_MD",
+  "description": "Javascript WhatsApp bot made by E3_HACKER_MD",
+  "logo": "https://files.catbox.moe/p4yxcn.png",
+  "keywords": ["E3_HACKER_MD"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "HASI-MD"
+      "value": "E3_HACKER_MD"
     }, 
       
     "PREFIX": {
@@ -78,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY HASI-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY E3_HACKER_MD 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "*χ нαѕι*"
+      "value": "*E3_HACKER_MD*"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "92462054847"
+      "value": "923495178663"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝗛𝗔𝗦𝗜 𝗠𝗗"
+      "value": "𝙀3_𝙃𝘼𝘾𝙆𝙀𝙍_𝙈𝘿"
 
       }, 
 
@@ -131,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/7nf8cb.jpg"
+      "value": "https://files.catbox.moe/p4yxcn.png"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "**© ᴘᴏᴡᴇʀᴇᴅ ʙʏ χ нαѕι ❣️*"
+      "value": "**© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙀3_𝙃𝘼𝘾𝙆𝙀𝙍_𝙈𝘿 ❣️*"
     },
 
       "DELETE_LINKS": {
