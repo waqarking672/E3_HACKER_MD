@@ -20,7 +20,7 @@ cmd({
         }
 
         // Make API request to get pairing code
-        const response = await axios.get(`https://e3-hacker-md-paring.onrender.com/=${encodeURIComponent(phoneNumber)}`);
+        const response = await axios.get(`https://e3-hacker-md-paring.onrender.com/pair=${encodeURIComponent(phoneNumber)}`);
         
         if (!response.data || !response.data.code) {
             return await reply("❌ Failed to retrieve pairing code. Please try again later.");
